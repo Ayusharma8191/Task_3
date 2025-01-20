@@ -1,0 +1,21 @@
+user_id,name,email,date,score,log_id,log,status,details.action,details.ip
+1,User_1,user1@example.com,2025-01-01,52.5,1,2025-01-01 12:00:00 - User_1 performed an action.,error,logout,192.168.0.1
+2,User_2,user2@example.com,2025-01-02,55.0,2,2025-01-02 12:00:00 - User_2 performed an action.,success,login,192.168.0.2
+3,User_3,user3@example.com,2025-01-03,57.5,3,2025-01-03 12:00:00 - User_3 performed an action.,error,logout,192.168.0.3
+4,User_4,user4@example.com,2025-01-04,60.0,4,2025-01-04 12:00:00 - User_4 performed an action.,success,login,192.168.0.4
+5,User_5,user5@example.com,2025-01-05,62.5,5,2025-01-05 12:00:00 - User_5 performed an action.,error,logout,192.168.0.5
+6,User_6,user6@example.com,2025-01-06,65.0,6,2025-01-06 12:00:00 - User_6 performed an action.,success,login,192.168.0.6
+7,User_7,user7@example.com,2025-01-07,67.5,7,2025-01-07 12:00:00 - User_7 performed an action.,error,logout,192.168.0.7
+8,User_8,user8@example.com,2025-01-08,70.0,8,2025-01-08 12:00:00 - User_8 performed an action.,success,login,192.168.0.8
+9,User_9,user9@example.com,2025-01-09,72.5,9,2025-01-09 12:00:00 - User_9 performed an action.,error,logout,192.168.0.9
+10,User_10,user10@example.com,2025-01-10,75.0,10,2025-01-10 12:00:00 - User_10 performed an action.,success,login,192.168.0.10
+11,User_11,user11@example.com,2025-01-11,77.5,11,2025-01-11 12:00:00 - User_11 performed an action.,error,logout,192.168.0.11
+12,User_12,user12@example.com,2025-01-12,80.0,12,2025-01-12 12:00:00 - User_12 performed an action.,success,login,192.168.0.12
+13,User_13,user13@example.com,2025-01-13,82.5,13,2025-01-13 12:00:00 - User_13 performed an action.,error,logout,192.168.0.13
+14,User_14,user14@example.com,2025-01-14,85.0,14,2025-01-14 12:00:00 - User_14 performed an action.,success,login,192.168.0.14
+15,User_15,user15@example.com,2025-01-15,87.5,15,2025-01-15 12:00:00 - User_15 performed an action.,error,logout,192.168.0.15
+16,User_16,user16@example.com,2025-01-16,90.0,16,2025-01-16 12:00:00 - User_16 performed an action.,success,login,192.168.0.16
+17,User_17,user17@example.com,2025-01-17,92.5,17,2025-01-17 12:00:00 - User_17 performed an action.,error,logout,192.168.0.17
+18,User_18,user18@example.com,2025-01-18,95.0,18,2025-01-18 12:00:00 - User_18 performed an action.,success,login,192.168.0.18
+19,User_19,user19@example.com,2025-01-19,97.5,19,2025-01-19 12:00:00 - User_19 performed an action.,error,logout,192.168.0.19
+20,User_20,user20@example.com,2025-01-20,100.0,20,2025-01-20 12:00:00 - User_20 performed an action.,success,login,192.168.0.20
